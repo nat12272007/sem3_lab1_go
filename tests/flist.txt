@@ -1,0 +1,10 @@
+ARRAY 0
+
+FLIST 1
+20 
+DLIST 0
+
+STACK 0
+
+QUEUE 0
+
